@@ -13,7 +13,6 @@ Tecnologias: Java SE, Eclipse.
 Collaborators: Paulo Henriques and André Pires.
 
 <h2>Genetic Algorithm to solve the travelling salesman problem</h2>
-According to a sequence of cities and their locations, the shortest path that passes through all cities is determined, only once, returning to the starting city.
-Implementation of the Strategy Design Pattern for application of the algorithm to several instances of the problem, with representations of different coordinates
+According to a sequence of cities and their locations, the shortest path that passes through all cities only once, is determined,  returning to the starting city.
+Implementation of the Strategy Design Pattern for application of the algorithm to several instances of the problem, with representations of different coordinates.
 Technologies: Java SE, Eclipse.
-
