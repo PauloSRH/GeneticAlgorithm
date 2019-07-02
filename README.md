@@ -1,5 +1,6 @@
-# Problema do Caixeiro Viajante -- PT
+# Problema do Caixeiro Viajante(Travelling Salesman Problem)
 </br>
+<h2>PT</h2>
 Colaboradores: Paulo Henriques e André Pires
 
 <h2>Aplicação de algoritmos genéticos ao problema do caixeiro viajante </h2>
@@ -7,7 +8,7 @@ De acordo com uma sequência de cidades e respetivas localizações, é determin
 Implementação do Strategy Design Pattern para aplicação do algoritmo a várias instâncias do problema, com representações de coordenadas diferentes.
 Tecnologias: Java SE, Eclipse.
 </br>
-# Travelling Salesman Problem -- EN
+<h2>EN</h2>
 </br>
 Collaborators: Paulo Henriques and André Pires.
 
